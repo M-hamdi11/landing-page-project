@@ -206,7 +206,7 @@ section {
     gap: 28px;
 }
 
-/* ===== الكارت ===== */
+/* ===== Card===== */
 .card {
     display: flex;
     flex-direction: column;
@@ -285,7 +285,7 @@ section {
     transition: transform 0.5s ease;
 }
 
-/* ===== الكارت ===== */
+/* ===== Card===== */
 .testimonial {
     min-width: 100%;
     box-sizing: border-box;
